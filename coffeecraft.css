@@ -126,15 +126,13 @@ table, td, th {
 	border-collapse: collapse;
 	padding: 0.5em;
 	text-align: center;
-	background-color: 
+	background-color: #FFFFFF;
 	font-family: Georgia;
 	color: black;
 	border: 2px solid #1e0606;
 	width: 100%;
-	text-align: center;
 	box-sizing: border-box;
 	margin: 1em 0;
-	background-color: #FFFFFF;
 }
 thead td{
 	font-weight: bold;
